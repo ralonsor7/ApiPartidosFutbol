@@ -1,0 +1,9 @@
+com/cev/api/repository/StatisticsRepository.class
+com/cev/api/web/TeamController.class
+com/cev/api/ApiApplication.class
+com/cev/api/domain/TeamStatistics.class
+com/cev/api/repository/MatchRepository.class
+com/cev/api/service/TeamService.class
+com/cev/api/repository/TeamRepository.class
+com/cev/api/domain/Match.class
+com/cev/api/domain/Team.class
